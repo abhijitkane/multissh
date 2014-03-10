@@ -16,5 +16,7 @@ outputFile – the file that the output should be written to
 
 Note – one line in the commandList file will correspond to one statement in the output file. If you want to see all files in dir1, then see all files in dir2, your commandFile should contain:
 
-cd /dir1; ls
-cd /dir2; ls
+
+cd /dir1; ls;
+
+cd /dir2; ls;
